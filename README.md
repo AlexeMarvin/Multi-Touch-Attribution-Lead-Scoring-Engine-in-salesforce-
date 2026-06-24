@@ -1,7 +1,5 @@
 # Multi-Touch Attribution & Lead Scoring Engine (Salesforce Marketing Ops Project)
 
----
-
 ## The Purpose of This Project
 
 This project demonstrates Marketing Operations and Revenue Operations capability by designing a full multi-touch attribution and lead scoring system inside Salesforce.
