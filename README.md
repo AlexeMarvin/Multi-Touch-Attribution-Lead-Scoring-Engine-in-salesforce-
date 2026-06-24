@@ -22,7 +22,7 @@ The `Assets` folder contains all documentation and visualization materials for t
 
 Each dashboard is structured as follows:
 
-- A dedicated **Markdown file** describing:
+- **3 Markdown files** describing:
   - Dashboard purpose and business context
   - Funnel logic, attribution model, and KPI definitions
   - Strategic insights derived from marketing, lead, and opportunity data
