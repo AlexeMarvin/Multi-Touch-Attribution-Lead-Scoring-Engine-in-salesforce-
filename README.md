@@ -2,7 +2,7 @@
 
 ## The Purpose of This Project
 
-This project demonstrates Marketing Operations and Revenue Operations capability by designing a full multi-touch attribution and lead scoring system inside Salesforce.
+This project demonstrates Marketing and Revenue Operations capability by designing a full multi-touch attribution and lead scoring system inside Salesforce.
 
 The system simulates a real-world marketing-to-revenue engine by combining:
 - Campaign structure and UTM-based tracking
